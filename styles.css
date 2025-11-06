@@ -60,8 +60,7 @@ a:hover {
 }
 
 img {
-    src: url('images/captura de tela(1).png');
-    width: 100%;
+    width: 50%;
     height: auto; /* preserve aspect ratio */
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
